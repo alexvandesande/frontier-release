@@ -1,3 +1,8 @@
+############################################################################################
+#### This is an install script for Geth and should NOT be acessed on the browser. 
+#### To learn how to use it go to www.ethereum.org/geth
+############################################################################################
+
 #!/usr/bin/env sh
 
 function run_installer()
